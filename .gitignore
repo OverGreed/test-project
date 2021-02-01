@@ -1,0 +1,7 @@
+/.build
+/.idea
+/node_modules
+/reports
+/package-lock.json
+/*.sh
+/.env
