@@ -17,7 +17,7 @@ docker-commpose build
 ```
 to start application
 ```bash
-docker-compose up -d db && docker compose up -d rest
+docker-compose up -d db && docker-compose up -d rest
 ```
 ### Start project
 ```bash
